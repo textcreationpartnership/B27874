@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A particular account of the proceedings at the Old-Bayly, the 17 and 18 of this instant October, with relation to the Earl of Shaftsbury, and others, prisoners in the Tower; and Mr. Rouse, who was indicted of high treason, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27874</idno><idno type="EEBO-CITATION">99884863</idno>
+  <idno type="VID">187210</idno>
+  <idno type="EEBO-PROQUEST">2248524040</idno>
+  
+            <idno type="STC">Wing P586A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1852.c.28[5]</idno>
+            <idno type="STC">ESTC R218973</idno>
+            <idno type="PROQUEST">ocm99884863</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884863e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27874)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187210)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:2[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A particular account of the proceedings at the Old-Bayly, the 17 and 18 of this instant October, with relation to the Earl of Shaftsbury, and others, prisoners in the Tower; and Mr. Rouse, who was indicted of high treason, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>re-printed by David Lindsay,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>anno Dom. 1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Above imprint: By authority.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683 --  Early works to 1800.</term>
+               <term type="personal_name">Rouse, John, d. 1683 --  Early works to 1800.</term>
+               <term type="topical_term">Treason --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="report">
+            <pb n="1" facs="tcp:187210:1"/>
+            <head>A Particular account of the Proceedings at the Old-Bayly, the 17 and 18 of this Instant <hi>October,</hi> with Relation to the Earl of <hi>Shafts<g ref="char:EOLhyphen"/>bury,</hi> and others, Prisoners in the Tower; and Mr. <hi>Rouse,</hi> who was Indicted of High Treason, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg>N Monday the 17th <hi>October,</hi> began at the <hi>Old-Bayly,</hi> the General-Sessions of Goal-delivery for the City of <hi>London,</hi> and County of <hi>Middlesex;</hi> where se<g ref="char:EOLhyphen"/>veral Petitions were presented to the Court, on the behalf of the Earl of <hi>Shaftsbury,</hi> Lord <hi>Howard</hi> of <hi>Escricke,</hi> Mr. <hi>Wilmore,</hi> and Mr. <hi>Whitaker,</hi> Prisoners in the <hi>Tower,</hi> and Mr. <hi>Wilson</hi> Prisoner in the <hi>Catehouse,</hi> Pray<g ref="char:EOLhyphen"/>ing they might be Bayled or brought to their Tryals; upon Reading where<g ref="char:EOLhyphen"/>of, the Court Declared,</p>
+            <p>That as to all the Petitions from the Prisoners in the <hi>Tower,</hi> they were to the same effect with those that had been formerly preferred; and where<g ref="char:EOLhyphen"/>upon, all the Judges had delivered their Opinions, that the Matter desired was not within the Power of this Court, but their remedy upon the Act was to move the Court of <hi>Kings Bench</hi> the first week of the next Term, and the Court, was now of the same opinion: And as to the Petition of <hi>Wilson,</hi> he was not within the Power of this Court <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in regard the Commission of Goal-delivery, is limited to the Prison of Newgate, and extend<g ref="char:EOLhyphen"/>ed to no other Prison, and it was mentioned, that the same had been formerly resolved in this Court, upon the like Petition of one <hi>Christian.</hi>
+            </p>
+            <p>Then the Persons Empanelled to serve on the Grand Jury for the Goal-delivery for <hi>London,</hi> being returned to be Sworn, Objection was made against most of them, by Council that attended by appointment of Mr. Attorney-General, as being Dissenters from the Church of <hi>England;</hi> and two of them being charged by name, were examined by the Court, and they not denying their going to Conventicles, but refusing to Answer, the Court directed the Secondary to name two others; and thereupon directed the Sheriffs to return the Panell so reformed, by putting in the Names of the two Persons so named by the Secondary, instead of the other two which the Sheriffs at first refused to do; but the Lord Chief Justice, and all the other Judges then present, De<g ref="char:EOLhyphen"/>claring the Law in that Case; and the Act of 3 <hi>Hen.</hi> 8. being read, the Sheriffs did at last consent to return the Panell so Reformed.</p>
+            <p>The same day Mr. <hi>John Rouse</hi> was removed from the <hi>Tower</hi> to <hi>Newgate,</hi> in order to his Trial: And on <hi>Tuesday</hi> the 18th, an Indictment of High Treason was Preferred against the said <hi>John Rouse,</hi> by which he is charged to have Compassed and Imagined the Death of the King, and to have endeavoured to raise a Rebellion, and to depose His Majesty from His Crown and Dignity; and this his Wicked and Traiterous Design, to have uttered and declared by Malicious and advised Words and Discourses. The Witnesses were at the desire of the King's Councel, Examined in Court. And the Jury having heard the Evidence, withdrew, and after some time returned, and desired they might Examine the Witnesses in private, which the Court did not think fit to allow of, it being Mr. Attorney's desire to have it otherwise; and the Grand Jury pretending a Priviledge to have it so, The Court told them they had a Priviledge to consult privately, but the King's Evidence might at any time be given either Publickly or Privately, as the Court should Order; but they should be allowed to have the Evidence given over again, and to Examine the Witnesses as throughly as they pleased: Whereupon they desired the Witnesses might be kept apart, and out of hearing of what was said in Court, and called one after another, to give their Evidence, which was done accordingly. The substance of the whole Evidence was as follows,</p>
+            <pb n="2" facs="tcp:187210:2"/>
+            <p> First, <hi>Mr.</hi> John Wiat <hi>a Gentleman of a good Estate, was Sworn, and deposed, That being in company with Mr.</hi> Rouse, <hi>he the said</hi> Rouse, <hi>after other Discourse, did say, that he believed the Parliament at</hi> Oxford <hi>would not sit long; but that the frequent Prorogations and Dissolutions would little avail the King, for that he would be forced to comply with them; that all he had was given him by the Parliament, and they might take it away again when they pleased; and that he, the Deponent, saying thereupon, That he thought the King had as much right to his Crown, as he, the Deponent, had to any Estate descended to him from his Ancesters;</hi> Rouse <hi>replied, the King had forfeited his Crown by breaking his Coronation Oath, and had no more right to it, than he, or any body else. Then Mr.</hi> Corbin <hi>(who was employed together with Mr.</hi> Rouse <hi>by the Commissioners appointed for Disband<g ref="char:EOLhyphen"/>ing the late Army) was Sworn, and declared. That being present at the Discourse between Mr.</hi> Rouse <hi>and Mr.</hi> Wiat, <hi>he heard Mr.</hi> Rouse <hi>say the words above mentioned, or to that effect.</hi>
+            </p>
+            <p>
+               <hi>Mr.</hi> Hayns <hi>Swore, That the said</hi> Rouse <hi>had said to him at several times, That the People of</hi> England <hi>were bet<g ref="char:EOLhyphen"/>ter than the King, that they would deal with him vvell enough, though he Dissolved the Parliaments: That they vvould pull him dovvn, and serve him as they did the Fool his Father; That the said</hi> Rouse <hi>came to him the Deponent several times, and vvould have had him Svvear that the King vvas privy to the Firing of</hi> London, <hi>and to the Death of Sir</hi> Edmundbury Godfrey, &amp;c. <hi>and vvould have had him scatter Libels, to make the People Rise against his Majesty. And that he the Deponent had received several Sums of Money from the said</hi> Rouse.</p>
+            <p>Mr. Denis <hi>svvore, That</hi> Rouse <hi>at several times told him, The King vvas a Papist, and intended to bring in Po<g ref="char:EOLhyphen"/>pery; That he therefore put off Parliaments, but that they vvould no longer bear vvith him, but vvould compell him to let the Parliament sit, untill they had accomplished their Ends. That He vvas appointed to collect Moneys for the Maintenance of the Witnesses; and that they need not fear any Prosecution, for that they vvould get such Juries, as vvould never find them Guilty. And that the Deponent received a Weekly Allovvance from</hi> Rouse.</p>
+            <p>
+               <hi>Mr.</hi> Smith, <hi>who vvas a Witness against the Lord</hi> Staffort, <hi>Svvore, That</hi> Rouse <hi>told him at several times that he gathered Moneys, and vvas to give freely to such as vvould svvear any thing against the Queen or the Duke; and that the said</hi> Rouse <hi>shewed him,</hi> the Deponent, <hi>an Information, (vvhich he vvould have had Mr.</hi> Hayns <hi>svvear to) vvherein it is said that the King knevv of the Firing of</hi> London, <hi>and the Death of Sir</hi> Edmunbury Godfrey.</p>
+            <p>
+               <hi>Mr.</hi> Turberville, <hi>likevvise a Witness against the Lord</hi> Stafford, <hi>Svvore, That sometime after</hi> Fitz-Harris<hi>'s Tryal, being vvith Mr.</hi> Rouse, <hi>and talking of the Times, and he,</hi> Mr. Turberville, <hi>saying, that they that had Estates to lose vvould have a care hovv they fell into a Rebellion,</hi> Rouse <hi>replyed, The Rabble are all on our side, and they that have Estates among them, must do as they vvill have them.</hi>
+            </p>
+            <p>
+               <hi>Mr.</hi> Ivie, <hi>and</hi> Mr. John Macnamarra <hi>svvore, They had received several Sums of Money from Mr.</hi> Rouse; <hi>and Mr.</hi> Ivie <hi>said, Mr.</hi> Rouse <hi>vvould have had him svvear against the King, the Queen, and the Duke.</hi>
+            </p>
+            <p>The Witnesses being asked concerning their Religion, all declared they were <hi>Protestants.</hi> And there were other Witnesses that were not examined.</p>
+            <p>Then the Grand-Jury withdrew, and after some Hours returned the Bill endorced, <hi>Ignoramus.</hi> And the Court being Surprized thereat, and asking the Foreman, how they could upon so full an Evidence return an <hi>Ignoramus,</hi> being they were upon their Oaths, and whether they believed not the Witnesses, or were unsatis<g ref="char:EOLhyphen"/>fied in Matter of Law; For if they doubted the Law in any thing, they might have had the Opinion of the Court. The Foreman answered, That that was their Verdict, and they had satisfied their own Consciences, and conceived they were not bound to shew any Reasons for it.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>By Authority, EDINBƲRGH, <hi>Re-Printed by</hi> David Lindsay, <hi>Anno DOM.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
